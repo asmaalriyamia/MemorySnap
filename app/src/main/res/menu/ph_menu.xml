@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/home"
+        android:title="Home"
+        android:icon="@drawable/home">
+
+    </item>
+    <item android:id="@+id/setting"
+        android:title="Profile"
+        android:icon="@drawable/profilee">
+
+    </item>
+    <item android:id="@+id/book"
+        android:title="My Gallary"
+        android:icon="@drawable/book">
+
+    </item>
+    <item android:id="@+id/appointment"
+        android:title="My appointment"
+        android:icon="@drawable/book">
+
+    </item>
+    <item android:id="@+id/about"
+        android:title="About Me"
+        android:icon="@drawable/book">
+    </item>
+    <item
+        android:id="@+id/log"
+        android:icon="@drawable/logout"
+        android:onClick="logout"
+        android:title="LogOut">
+
+    </item>
+
+</menu>

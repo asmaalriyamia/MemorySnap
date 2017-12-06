@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/home"
+        android:title="Home"
+        android:icon="@drawable/home">
+
+    </item>
+    <item android:id="@+id/setting"
+        android:title="Profile"
+        android:icon="@drawable/profilee">
+
+    </item>
+    <item android:id="@+id/book"
+        android:title="My book"
+        android:icon="@drawable/book">
+
+    </item>
+    <item
+        android:id="@+id/log"
+        android:icon="@drawable/logout"
+        android:title="LogOut">
+
+    </item>
+    <item
+        android:id="@+id/action_settings"
+        android:icon="@drawable/support"
+        android:orderInCategory="100"
+        android:title="@string/action_support"
+        app:showAsAction="always" />
+
+</menu>

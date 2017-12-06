@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MemorySnap</string>
+    <string name="users_prompt">Choose a country</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="action_support">Support</string>
+
+</resources>
